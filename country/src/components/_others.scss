@@ -1,0 +1,15 @@
+.dark{
+    background:$dark-mode-backgrounds ;
+    color:$dark-mode-text-lmode-elements ;
+    input,button,ul{
+        background-color: $dark-mode-backgrounds;
+        color: $dark-mode-text-lmode-elements;
+    }
+    
+}
+
+a{
+    text-decoration: none;
+    color: unset;
+    
+}
